@@ -1,8 +1,9 @@
 #import java.*
 
 
-public class Adding{
+public class InputStream{
     public static void main(String args){
-        System.out.print("Adding.\n");
+        System.out.print("InputStream.\n");
+	System.out.print("Hello.\n");
     }
 }
